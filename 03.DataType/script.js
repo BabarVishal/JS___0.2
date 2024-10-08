@@ -19,7 +19,7 @@ let lastLoginDate = null;
 let person = {
    fisthName: "Vishal",
    lastName: "Babar",
-   age: 22
+   age: 24
 }
 
 console.log(person);
